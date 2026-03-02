@@ -1,0 +1,99 @@
+ID,Name,Age,JoinDate,Salary,Dept,Phone,Email,Score,Remarks
+001,Ali,25,2020-01-15,50000,HR,0300-123456,ali@abc.com,88,Good
+002,Alee,Twenty,15/01/2020,50k,hr,300123456,ali@abc,88.0,gd
+003,NULL,29,2020/01/16,NaN,Finance,+92-3001234,missing,72,Excellent
+004,Sara,31,01-17-2020,52000,FINANCE,03001234567,sara@xyz.com,95,Good
+005,Saira,Thirty,2020.01.18,52k,finance,0300 123 4567,saira@xyz,NaN,Exclnt
+006,Ahmed,27,2020-01-19,,HR,0300-7654321,ahmed@abc.com,85,Average
+007,Ahmad,27,19/01/20,47000,hr,+92 300 7654321,ahmad@abc,85.0,avg
+008,John,NaN,2020/01/20,48000,Sales,0300-111222,john@abc.com,77,Good
+009,Jon,28,20-01-2020,48k,sales,300111222,jon@abc,77.5,gud
+010,Mary,26,2020-01-21,51000,Marketing,0300-333444,mary@xyz.com,90,Good
+011,Mari,twenty-six,21/01/2020,51k,marketing,0300333444,mary@xyz,90.0,gud
+012,Usman,35,2020/01/22,60000,IT,0300-555666,usman@abc.com,82,Excellent
+013,Usmn,NaN,22-01-2020,60k,it,300555666,usman@abc,82.5,Exclnt
+014,Farah,29,2020-01-23,58000,Finance,0300-777888,farah@xyz.com,75,Good
+015,Frah,29,23/01/2020,58k,finance,+92-300777888,farah@xyz,75.0,gud
+016,Imran,40,2020/01/24,70000,HR,0300-999000,imran@abc.com,88,Excellent
+017,Imrn,Forty,24-01-2020,70k,hr,0300999000,imran@abc,88.0,Exclnt
+018,Ayesha,NaN,2020-01-25,65000,Sales,0300-222333,ayesha@xyz.com,91,Good
+019,Aysha,32,25/01/2020,65k,sales,300222333,ayesha@xyz,91.0,gud
+020,Kamran,28,2020/01/26,55000,Marketing,0300-444555,kamran@abc.com,79,Average
+021,Kmrn,28,26-01-2020,55k,marketing,+92-300444555,kamran@abc,79.0,avg
+022,Zara,27,2020-01-27,53000,Finance,0300-666777,zara@xyz.com,84,Good
+023,Zra,27,27/01/2020,53k,finance,0300666777,zara@xyz,84.0,gud
+024,Ali,25,2020-01-15,50000,HR,0300-123456,ali@abc.com,88,Good
+025,Alee,Twenty,15/01/2020,50k,hr,300123456,ali@abc,88.0,gd
+026,NULL,29,2020/01/16,NaN,Finance,+92-3001234,missing,72,Excellent
+027,Sara,31,01-17-2020,52000,FINANCE,03001234567,sara@xyz.com,95,Good
+028,Saira,Thirty,2020.01.18,52k,finance,0300 123 4567,saira@xyz,NaN,Exclnt
+029,Ahmed,27,2020-01-19,,HR,0300-7654321,ahmed@abc.com,85,Average
+030,Ahmad,27,19/01/20,47000,hr,+92 300 7654321,ahmad@abc,85.0,avg
+031,John,NaN,2020/01/20,48000,Sales,0300-111222,john@abc.com,77,Good
+032,Jon,28,20-01-2020,48k,sales,300111222,jon@abc,77.5,gud
+033,Mary,26,2020-01-21,51000,Marketing,0300-333444,mary@xyz.com,90,Good
+034,Mari,twenty-six,21/01/2020,51k,marketing,0300333444,mary@xyz,90.0,gud
+035,Usman,35,2020/01/22,60000,IT,0300-555666,usman@abc.com,82,Excellent
+036,Usmn,NaN,22-01-2020,60k,it,300555666,usman@abc,82.5,Exclnt
+037,Farah,29,2020-01-23,58000,Finance,0300-777888,farah@xyz.com,75,Good
+038,Frah,29,23/01/2020,58k,finance,+92-300777888,farah@xyz,75.0,gud
+039,Imran,40,2020/01/24,70000,HR,0300-999000,imran@abc.com,88,Excellent
+040,Imrn,Forty,24-01-2020,70k,hr,0300999000,imran@abc,88.0,Exclnt
+041,Ayesha,NaN,2020-01-25,65000,Sales,0300-222333,ayesha@xyz.com,91,Good
+042,Aysha,32,25/01/2020,65k,sales,300222333,ayesha@xyz,91.0,gud
+043,Kamran,28,2020/01/26,55000,Marketing,0300-444555,kamran@abc.com,79,Average
+044,Kmrn,28,26-01-2020,55k,marketing,+92-300444555,kamran@abc,79.0,avg
+045,Zara,27,2020-01-27,53000,Finance,0300-666777,zara@xyz.com,84,Good
+046,Zra,27,27/01/2020,53k,finance,0300666777,zara@xyz,84.0,gud
+047,Ali,25,2020-01-15,50000,HR,0300-123456,ali@abc.com,88,Good
+048,Alee,Twenty,15/01/2020,50k,hr,300123456,ali@abc,88.0,gd
+049,NULL,29,2020/01/16,NaN,Finance,+92-3001234,missing,72,Excellent
+050,Sara,31,01-17-2020,52000,FINANCE,03001234567,sara@xyz.com,95,Good
+051,Saira,Thirty,2020.01.18,52k,finance,0300 123 4567,saira@xyz,NaN,Exclnt
+052,Ahmed,27,2020-01-19,,HR,0300-7654321,ahmed@abc.com,85,Average
+053,Ahmad,27,19/01/20,47000,hr,+92 300 7654321,ahmad@abc,85.0,avg
+054,John,NaN,2020/01/20,48000,Sales,0300-111222,john@abc.com,77,Good
+055,Jon,28,20-01-2020,48k,sales,300111222,jon@abc,77.5,gud
+056,Mary,26,2020-01-21,51000,Marketing,0300-333444,mary@xyz.com,90,Good
+057,Mari,twenty-six,21/01/2020,51k,marketing,0300333444,mary@xyz,90.0,gud
+058,Usman,35,2020/01/22,60000,IT,0300-555666,usman@abc.com,82,gud
+061,Usmn,NaN,22-01-2020,60k,it,300555666,usman@abc,82.5,Exclnt
+062,Farah,29,2020-01-23,58000,Finance,0300-777888,farah@xyz.com,75,Good
+063,Frah,29,23/01/2020,58k,finance,+92-300777888,farah@xyz,75.0,gud
+064,Imran,40,2020/01/24,70000,HR,0300-999000,imran@abc.com,88,Excellent
+065,Imrn,Forty,24-01-2020,70k,hr,0300999000,imran@abc,88.0,Exclnt
+066,Ayesha,NaN,2020-01-25,65000,Sales,0300-222333,ayesha@xyz.com,91,Good
+067,Aysha,32,25/01/2020,65k,sales,300222333,ayesha@xyz,91.0,gud
+068,Kamran,28,2020/01/26,55000,Marketing,0300-444555,kamran@abc.com,79,Average
+069,Kmrn,28,26-01-2020,55k,marketing,+92-300444555,kamran@abc,79.0,avg
+070,Zara,27,2020-01-27,53000,Finance,0300-666777,zara@xyz.com,84,Good
+071,Zra,27,27/01/2020,53k,finance,0300666777,zara@xyz,84.0,gud
+072,Ali,25,2020-01-15,50000,HR,0300-123456,ali@abc.com,88,Good
+073,Alee,Twenty,15/01/2020,50k,hr,300123456,ali@abc,88.0,gd
+074,NULL,29,2020/01/16,NaN,Finance,+92-3001234,missing,72,Excellent
+075,Sara,31,01-17-2020,52000,FINANCE,03001234567,sara@xyz.com,95,Good
+076,Saira,Thirty,2020.01.18,52k,finance,0300 123 4567,saira@xyz,NaN,Exclnt
+077,Ahmed,27,2020-01-19,,HR,0300-7654321,ahmed@abc.com,85,Average
+078,Ahmad,27,19/01/20,47000,hr,+92 300 7654321,ahmad@abc,85.0,avg
+079,John,NaN,2020/01/20,48000,Sales,0300-111222,john@abc.com,77,Good
+080,Jon,28,20-01-2020,48k,sales,300111222,jon@abc,77.5,gud
+081,Mary,26,2020-01-21,51000,Marketing,0300-333444,mary@xyz.com,90,Good
+082,Mari,twenty-six,21/01/2020,51k,marketing,0300333444,mary@xyz,90.0,gud
+083,Usman,35,2020/01/22,60000,IT,0300-555666,usman@abc.com,82,Excellent
+084,Usmn,NaN,22-01-2020,60k,it,300555666,usman@abc,82.5,Exclnt
+085,Farah,29,2020-01-23,58000,Finance,0300-777888,farah@xyz.com,75,Good
+086,Frah,29,23/01/2020,58k,finance,+92-300777888,farah@xyz,75.0,gud
+087,Imran,40,2020/01/24,70000,HR,0300-999000,imran@abc.com,88,Excellent
+088,Imrn,Forty,24-01-2020,70k,hr,0300999000,imran@abc,88.0,Exclnt
+089,Ayesha,NaN,2020-01-25,65000,Sales,0300-222333,ayesha@xyz.com,91,Good
+090,Aysha,32,25/01/2020,65k,sales,300222333,ayesha@xyz,91.0,gud
+091,Kamran,28,2020/01/26,55000,Marketing,0300-444555,kamran@abc.com,79,Average
+092,Kmrn,28,26-01-2020,55k,marketing,+92-300444555,kamran@abc,79.0,avg
+093,Zara,27,2020-01-27,53000,Finance,0300-666777,zara@xyz.com,84,Good
+094,Zra,27,27/01/2020,53k,finance,0300666777,zara@xyz,84.0,gud
+095,Ali,25,2020-01-15,50000,HR,0300-123456,ali@abc.com,88,Good
+096,Alee,Twenty,15/01/2020,50k,hr,300123456,ali@abc,88.0,gd
+097,NULL,29,2020/01/16,NaN,Finance,+92-3001234,missing,72,Excellent
+098,Sara,31,01-17-2020,52000,FINANCE,03001234567,sara@xyz.com,95,Good
+099,Saira,Thirty,2020.01.18,52k,finance,0300 123 4567,saira@xyz,NaN,Exclnt
+100,Ahmed,27,2020-01-19,,HR,0300-7654321,ahmed@abc.com,85,Average
